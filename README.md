@@ -1,3 +1,6 @@
+[![Vulnerability Check](https://github.com/Nadeau-Innovations/example-github-actions/actions/workflows/vulnerability_check.yml/badge.svg)](https://github.com/Nadeau-Innovations/example-github-actions/actions/workflows/vulnerability_check.yml)
+
+
 # GitHub Actions Examples Repo
 
 Explore this curated collection of GitHub Actions examples, designed to help developers automate workflows and enhance their software development lifecycle.
